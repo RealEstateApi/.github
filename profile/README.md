@@ -1,26 +1,3 @@
-<style>
-.horizontal-list {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-}
-
-.horizontal-list li {
-    display: inline-block;
-}
-
-.horizontal-list li a {
-    display: block;
-    padding: 5px 10px;
-    text-decoration: none;
-    color: #000;
-}
-
-.horizontal-list li a:hover {
-    background-color: #f1f1f1;
-    color: #000;
-}
-</style>
 
 <i>Fastest and most expressive Property Data APIs for PropTech, Lending, Home Services, and more!</i>
 
